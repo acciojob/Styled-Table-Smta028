@@ -1,5 +1,5 @@
 #customers{
-	border-collapse:collapse;
+	border-collapse:inherit;
 	width=100%;
 }
 #customers td, #customers th {
@@ -8,7 +8,7 @@
 }
 #customers tr:nth-child(even){background-color: #f2f2f2;}
 
-#customers tr:hover {background-color: #ddd;}
+
 
 #customers th {
   padding-top: 12px;
