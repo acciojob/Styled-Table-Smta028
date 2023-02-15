@@ -1,9 +1,9 @@
 #customers{
-	border-collapse:inherit;
-	width=100%;
+   border-collapse:collapse;
+	width:100%;
 }
 #customers td, #customers th {
-  border: 1px solid #ddd;
+   border: 1px solid #ddd; 
   padding: 8px;
 }
 #customers tr:nth-child(even){background-color: #f2f2f2;}
